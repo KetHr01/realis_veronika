@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+.main{
+    background-color:#8D55A1;
+    padding: 30px 0px;
+    text-align: center;
+    color: #FFF6F9;
+}
+h1{
+    box-shadow: 10px 10px 40px 10px #B499D8;
+}
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1;
+}
+
+.nav{
+    height:183px;
+    width: 300px;
+}
+h1{
+  color:#C594D7;
+}
+p{
+    font-size: 15px;
+    color: black;
+}
+p:hover{
+    font-size: 20px;
+    color: black;
+}
+.end{
+    background-color: #cfc2e0;
+}
